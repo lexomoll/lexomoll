@@ -2,7 +2,7 @@
 
 ✨ I’m interested in extremophiles, astrobiology, and microbes in a changing climate
 
-❄️ I write scripts to understand the taxonomy and genetic potential of cold-adapted microbial communities in the Arctic
+❄️ I write scripts to understand the taxonomy and genetic potential of cold-adapted microbial communities
 
 How to reach me : 
 
