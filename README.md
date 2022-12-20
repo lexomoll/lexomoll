@@ -6,7 +6,7 @@
 
 How to reach me : 
 
-Tooting over on <a rel="me" href="https://ecoevo.social/@permallica">mastodon</a>
+Tootin on <a rel="me" href="https://ecoevo.social/@permallica">mastodon</a>
 
 Bragging over on <a href="https://linkedin.com/in/lexi-mollica">linkedin</a>
 
