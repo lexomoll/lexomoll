@@ -1,6 +1,8 @@
 ### 👋 Hi, I’m Lexi!
 
-✨ I’m interested in extremophiles, astrobiology, and microbes in a changing climate (also D&D and kitties)
+✨ I’m interested in extremophiles, astrobiology, and microbes in a changing climate
+
+❄️ I write scripts to understand how cold-adapted microbial communities change in taxonomy and genetic potential in thawing Arctic permafrost
 
 How to reach me : 
 
