@@ -6,11 +6,11 @@
 
 How to reach me : 
 
-Tootin on <a rel="me" href="https://ecoevo.social/@permallica">mastodon</a>
+Check out my <a href="https://sites.google.com/view/leximollica/home">website</a> and my <a href="https://sites.google.com/view/leximollica/cv">CV</a>! :)
 
 Bragging over on <a href="https://linkedin.com/in/lexi-mollica">linkedin</a>
 
-And here's a <a href="https://twitter.com/permallica">link</a> to the bird site that shall remain unnamed
+And here's a <a href="https://twitter.com/permallica">link</a> to the bird site
 
 
 
